@@ -1,0 +1,19 @@
+body{
+	background-color: DeepSkyBlue;
+}
+h1{
+	color: Blue;
+	font-size: 125px;
+	margin-bottom: 5px;
+}
+img#profile_picture2{
+	width: 500px;
+	margin-top: 5px;
+}
+img#cat_party{
+	margin-left: 350px;
+}
+p#intro_p{
+	color: Blue;
+	font-size: 75px;
+}
